@@ -1,5 +1,4 @@
 // Copyright 2018 Chuqiao Liang chuqiao@bu.edu
-// Copyright 2018 Kumail Al Hamoud  kumail@bu.edu
 
 #include <array>
 #include <iostream>
